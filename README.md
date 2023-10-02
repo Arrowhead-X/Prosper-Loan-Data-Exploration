@@ -1,6 +1,6 @@
 # Prosper-Loan-Data-Exploration
 
-The Prosper Loan dataset contains data about 110,000 loan listings and 81 features relating to the loan, services and differemt segments of loan applicants. The goal of this exploration was to discover patterns in the data about the different segments of borrowers, the reasons they borrow and the variables that unfluence their probability of getting a loan.
+The Prosper Loan dataset contains data about 110,000 loan listings and 81 features relating to the loan, services and differemt segments of loan applicants. The goal of this exploration was to discover patterns in the data about the different segments of borrowers, the reasons they borrow and the variables that influence their probability of getting a loan.
 
 ## Findings
 Firstly, exploration on this dataset revealed Debt consolidation, Home Improvement, and Business purpose as the major reasons why people take loans. Borrowing to purchase boats and RVs turned out to be the least reasons why people get loans. The data also revealed a positive correlation between the income of the borrower and the loan amount they got, which is the same between the loan amount and the monthly payment made.
